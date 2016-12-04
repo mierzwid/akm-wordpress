@@ -91,7 +91,7 @@ blockquote cite {
 	text-transform: uppercase;
 }
 a {
-  color: #679146;
+  color: #008000;
   text-decoration: underline;           
 }
 a:hover {
@@ -342,7 +342,7 @@ body {
   z-index: 50;      
 }
 .site-description { 
-  color: #bc0000;
+  color: #008000;
   font-family: Oswald, Arial, Helvetica, sans-serif;
   font-size: 18px;
   line-height: 120%;
@@ -787,7 +787,7 @@ way to fit your requirements. */
   margin: 0 0 7px;            
 }
 .post-entry .post-entry-headline a {
-  color: #679146;
+  color: #008000;
   text-decoration: none;                 
 }
 .post-entry .post-entry-headline a:hover {
@@ -849,7 +849,7 @@ way to fit your requirements. */
   padding-left: 14px;                       
 } 
 .sidebar-widget a {
-  color: #88ae6a;
+  color: #008000;
   text-decoration: underline;                       
 }
 .sidebar-widget ul li a {
@@ -867,7 +867,7 @@ way to fit your requirements. */
 -------------------------------------------------------------- */
 
 #footer {
-  background: #679146;                
+  background: #008000;                
 }
 #footer p,
 #footer ul li,
@@ -990,7 +990,7 @@ textarea {
 }
 input[type="submit"],
 input[type="reset"] {
-  background: #679146;
+  background: #008000;
   border: none;
   border-radius: 0 !important;
   box-shadow: none;
@@ -1025,7 +1025,7 @@ input[type="reset"]:hover {
   width: 96%;              
 }
 #searchform .searchform-wrapper .send {
-  background-color: #679146;
+  background-color: #008000;
   background-image: url(images/searchform-send.png);
   border: none;
   cursor: pointer;
