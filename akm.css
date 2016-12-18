@@ -256,7 +256,7 @@ body {
   position: fixed;
   left: 0;
   top: 0; 
-  width: 220px; 
+  width: 14em; 
   z-index: 500;             
 }
 #header,
